@@ -1,2 +1,1 @@
-# Quantumult-X
-Quantumult X规则
+# Quantumult-X规则 自用
